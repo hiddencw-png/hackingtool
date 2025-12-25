@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Python: HackingTool",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/hackingtool.py",
             "console": "integratedTerminal",
